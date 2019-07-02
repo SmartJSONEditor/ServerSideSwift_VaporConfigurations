@@ -1,7 +1,5 @@
-# ServerSideSwift_VaporConfigurations
-## Server Side Swift with Vapor, how to configure local testing environments and deploying to AWS EC2
 
-# Server Side Swift - Vapor/ MySQL database
+# Server Side Swift - AWS EC2 Ubuntu 18.04 Vapor MySQL database setup
 
 ## Installing for local development
 [1. Install Vapor on Mac](https://github.com/SmartJSONEditor/ServerSideSwift_VaporConfigurations/wiki/Installing-Vapor)
